@@ -1,0 +1,29 @@
+.html{
+    background-color: cornsilk;
+    text-align: center;
+}
+.btn{
+    background-color: black;
+    color: cornsilk;
+    text-align: center;
+   border-radius: 15px;
+    border-color: darkgrey;
+   
+    font-size: medium;
+    transition-duration: 0.9999911s;
+    cursor: pointer;
+}
+.btn:hover{
+    border-radius: 20px;
+    background-color:greenyellow ;
+    color: black;
+    border-color: darkgray;
+}
+#out{
+    color: maroon;
+    text-decoration:solid
+}
+#output:hover{
+    background-color: cornsilk;
+    color: black;
+}
